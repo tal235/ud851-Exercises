@@ -1,6 +1,21 @@
 {
-  "name": "Tal and Eran",
-  "symbol": "ETST",
+  "name": "Eran",
+  "symbol": "RGPT",
   "decimals": 6,
-  "logoURI": "https://www.creativefabrica.com/wp-content/uploads/2018/11/Money-bag-logo-by-DEEMKA-STUDIO-580x406.jpg",                                                                                             // Other optional fields
-}  
+  "logo": "https://e7.pngegg.com/pngimages/439/265/png-clipart-money-bag-computer-icons-united-states-dollar-dollar-sign-money-bag-logo-grass.png",
+  "tags": ["crypto", "digital asset"],
+  "creators": [
+    {
+      "address": "DRko9jAj1SrKbitvr7w1cw5DKqWVVjX9CyRVYneeLfdb",
+      "share": 100
+    }
+  ],
+  "website": "https://example.com",
+  "description": "MyToken is a digital asset on the Solana blockchain.",
+  "external_url": "https://example.com/mytoken",
+  "properties": {
+    "file_format": "PNG",
+    "category": "digital collectible",
+    "created_at": "2024-07-09T12:00:00Z"
+  }
+}
